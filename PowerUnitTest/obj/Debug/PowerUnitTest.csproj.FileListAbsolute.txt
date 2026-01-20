@@ -1,0 +1,6 @@
+D:\Project\PowerUnitTest\bin\Debug\PowerUnitTest.dll
+D:\Project\PowerUnitTest\bin\Debug\PowerUnitTest.pdb
+D:\Project\PowerUnitTest\obj\Debug\PowerUnitTest.csproj.AssemblyReference.cache
+D:\Project\PowerUnitTest\obj\Debug\PowerUnitTest.csproj.CoreCompileInputs.cache
+D:\Project\PowerUnitTest\obj\Debug\PowerUnitTest.dll
+D:\Project\PowerUnitTest\obj\Debug\PowerUnitTest.pdb

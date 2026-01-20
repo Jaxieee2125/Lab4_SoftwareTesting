@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaiTapBonusBuoi4", "BaiTapBonusBuoi4.csproj", "{276CB4AC-46F8-4747-B822-6FC5E6658A2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bonus.Tests", "..\Bonus.Tests\Bonus.Tests.csproj", "{993885E4-C21C-41D6-A7A9-08F236AD539C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{276CB4AC-46F8-4747-B822-6FC5E6658A2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{276CB4AC-46F8-4747-B822-6FC5E6658A2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{276CB4AC-46F8-4747-B822-6FC5E6658A2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{276CB4AC-46F8-4747-B822-6FC5E6658A2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{993885E4-C21C-41D6-A7A9-08F236AD539C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{993885E4-C21C-41D6-A7A9-08F236AD539C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{993885E4-C21C-41D6-A7A9-08F236AD539C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{993885E4-C21C-41D6-A7A9-08F236AD539C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E83336F7-913F-432D-834E-1CD0E5470953}
+	EndGlobalSection
+EndGlobal
